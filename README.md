@@ -31,7 +31,7 @@ This project leverages SQL to analyze business data, uncovering valuable insight
 
 ## Technologies Used
 - SQL
-- MySQL Workbench / PostgreSQL (depending on database used)
+- MySQL Workbench 
 - Data Querying & Analysis
 
 ## Setup Instructions
